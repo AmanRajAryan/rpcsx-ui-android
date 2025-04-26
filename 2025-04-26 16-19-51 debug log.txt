@@ -1,0 +1,513 @@
+I/FA      ( 2238): App measurement initialized, version: 75066
+
+I/FA      ( 2238): To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+
+I/FA      ( 2238): To enable faster debug mode event logging run:
+
+I/FA      ( 2238):   adb shell setprop debug.firebase.analytics.app com.google.android.apps.youtube.music
+
+I/FA      ( 3556): App measurement initialized, version: 75066
+
+I/FA      ( 3556): To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+
+I/FA      ( 3556): To enable faster debug mode event logging run:
+
+I/FA      ( 3556):   adb shell setprop debug.firebase.analytics.app com.google.android.apps.youtube.music
+
+I/FA-SVC  ( 4244): App measurement initialized, version: 225014
+
+I/FA      ( 3184): App measurement initialized, version: 75066
+
+I/FA      ( 3184): To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+
+I/FA      ( 3184): To enable faster debug mode event logging run:
+
+I/FA      ( 3184):   adb shell setprop debug.firebase.analytics.app com.google.android.googlequicksearchbox
+
+I/FA      ( 3184): Tag Manager is not found and thus will not be used
+
+I/FA-SVC  ( 4244): Install Referrer Reporter is not available
+
+I/FA-SVC  ( 4244): Install Referrer Reporter is not available
+
+W/FA-SVC  ( 4244): Storing bundle outside of the max uploading time span. appId, now, timestamp: com.google.android.apps.youtube.music, 1745636285319, 1685965622346
+
+W/FA-SVC  ( 4244): Storing bundle outside of the max uploading time span. appId, now, timestamp: com.google.android.googlequicksearchbox, 1745636285672, 1687351003595
+
+I/FA      ( 5426): App measurement initialized, version: 75066
+
+I/FA      ( 5426): To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+
+I/FA      ( 5426): To enable faster debug mode event logging run:
+
+I/FA      ( 5426):   adb shell setprop debug.firebase.analytics.app com.google.android.youtube
+
+I/FA-SVC  ( 4244): Install Referrer Reporter is not available
+
+W/FA-SVC  ( 4244): Storing bundle outside of the max uploading time span. appId, now, timestamp: com.google.android.youtube, 1745636296649, 1685965631014
+
+I/FA-SVC  ( 3248): App measurement initialized, version: 225014
+
+W/net.rpcsx( 7609): Unexpected CPU variant for x86: x86_64.
+
+W/net.rpcsx( 7609): Known variants: atom, sandybridge, silvermont, kabylake, default
+
+I/ndk_translation( 7609): Initialized NDK translation (aarch64), version 0.2.3
+
+D/CompatibilityChangeReporter( 7609): Compat change id reported: 171979766; UID 10170; state: ENABLED
+
+D/nativeloader( 7609): Configuring classloader-namespace for other apk /data/app/~~f9hSeaJZ4y58S3mdiwXJtw==/net.rpcsx-7D8KrONzOdFJC0GaAvBUgg==/base.apk. target_sdk_version=35, uses_libraries=, library_path=/data/app/~~f9hSeaJZ4y58S3mdiwXJtw==/net.rpcsx-7D8KrONzOdFJC0GaAvBUgg==/lib/arm64:/data/app/~~f9hSeaJZ4y58S3mdiwXJtw==/net.rpcsx-7D8KrONzOdFJC0GaAvBUgg==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/net.rpcsx
+
+V/GraphicsEnvironment( 7609): ANGLE Developer option for 'net.rpcsx' set to: 'default'
+
+V/GraphicsEnvironment( 7609): ANGLE GameManagerService for net.rpcsx: false
+
+V/GraphicsEnvironment( 7609): Neither updatable production driver nor prerelease driver is supported.
+
+D/NetworkSecurityConfig( 7609): No Network Security Config specified, using platform default
+
+D/NetworkSecurityConfig( 7609): No Network Security Config specified, using platform default
+
+D/from MyApplication( 7609): im here
+
+D/CompatibilityChangeReporter( 7609): Compat change id reported: 147798919; UID 10170; state: ENABLED
+
+D/libEGL  ( 7609): loaded /vendor/lib64/egl/libEGL_emulation.so
+
+D/libEGL  ( 7609): loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+
+D/libEGL  ( 7609): loaded /vendor/lib64/egl/libGLESv2_emulation.so
+
+W/System.err( 7609): java.io.FileNotFoundException: /storage/emulated/0/Android/data/net.rpcsx/files/fw.json: open failed: ENOENT (No such file or directory)
+
+W/System.err( 7609): 	at libcore.io.IoBridge.open(IoBridge.java:574)
+
+W/System.err( 7609): 	at java.io.FileInputStream.<init>(FileInputStream.java:160)
+
+W/System.err( 7609): 	at h3.j.M(Unknown Source:11)
+
+W/System.err( 7609): 	at net.rpcsx.MainActivity.onCreate(Unknown Source:164)
+
+W/System.err( 7609): 	at android.app.Activity.performCreate(Activity.java:8305)
+
+W/System.err( 7609): 	at android.app.Activity.performCreate(Activity.java:8284)
+
+W/System.err( 7609): 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1417)
+
+W/System.err( 7609): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3626)
+
+W/System.err( 7609): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3782)
+
+W/System.err( 7609): 	at android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:101)
+
+W/System.err( 7609): 	at android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:135)
+
+W/System.err( 7609): 	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:95)
+
+W/System.err( 7609): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2307)
+
+W/System.err( 7609): 	at android.os.Handler.dispatchMessage(Handler.java:106)
+
+W/System.err( 7609): 	at android.os.Looper.loopOnce(Looper.java:201)
+
+W/System.err( 7609): 	at android.os.Looper.loop(Looper.java:288)
+
+W/System.err( 7609): 	at android.app.ActivityThread.main(ActivityThread.java:7872)
+
+W/System.err( 7609): 	at java.lang.reflect.Method.invoke(Native Method)
+
+W/System.err( 7609): 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
+
+W/System.err( 7609): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:936)
+
+W/System.err( 7609): Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+
+W/System.err( 7609): 	at libcore.io.Linux.open(Native Method)
+
+W/System.err( 7609): 	at libcore.io.ForwardingOs.open(ForwardingOs.java:563)
+
+W/System.err( 7609): 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:274)
+
+W/System.err( 7609): 	at libcore.io.ForwardingOs.open(ForwardingOs.java:563)
+
+W/System.err( 7609): 	at android.app.ActivityThread$AndroidOs.open(ActivityThread.java:7758)
+
+W/System.err( 7609): 	at libcore.io.IoBridge.open(IoBridge.java:560)
+
+W/System.err( 7609): 	... 19 more
+
+W/System.err( 7609): java.io.FileNotFoundException: /storage/emulated/0/Android/data/net.rpcsx/files/games.json: open failed: ENOENT (No such file or directory)
+
+W/System.err( 7609): 	at libcore.io.IoBridge.open(IoBridge.java:574)
+
+W/System.err( 7609): 	at java.io.FileInputStream.<init>(FileInputStream.java:160)
+
+W/System.err( 7609): 	at h3.j.M(Unknown Source:11)
+
+W/System.err( 7609): 	at net.rpcsx.a.l(Unknown Source:38)
+
+W/System.err( 7609): 	at c3.a.r(Unknown Source:7)
+
+W/System.err( 7609): 	at w3.H.run(Unknown Source:114)
+
+W/System.err( 7609): 	at B3.g.run(Unknown Source:58)
+
+W/System.err( 7609): 	at D3.j.run(Unknown Source:2)
+
+W/System.err( 7609): 	at D3.a.run(Unknown Source:93)
+
+W/System.err( 7609): Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+
+W/System.err( 7609): 	at libcore.io.Linux.open(Native Method)
+
+W/System.err( 7609): 	at libcore.io.ForwardingOs.open(ForwardingOs.java:563)
+
+W/System.err( 7609): 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:274)
+
+W/System.err( 7609): 	at libcore.io.ForwardingOs.open(ForwardingOs.java:563)
+
+W/System.err( 7609): 	at android.app.ActivityThread$AndroidOs.open(ActivityThread.java:7758)
+
+W/System.err( 7609): 	at libcore.io.IoBridge.open(IoBridge.java:560)
+
+W/System.err( 7609): 	... 8 more
+
+W/OnBackInvokedCallback( 7609): OnBackInvokedCallback is not enabled for the application.
+
+W/OnBackInvokedCallback( 7609): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+
+D/HostConnection( 7609): HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_YUV_Cache ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_1 
+
+W/OpenGLRenderer( 7609): Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+
+W/OpenGLRenderer( 7609): Failed to initialize 101010-2 format, error = EGL_SUCCESS
+
+D/EGL_emulation( 7609): eglCreateContext: 0x7fd17b1f1150: maj 3 min 1 rcv 4
+
+D/EGL_emulation( 7609): eglMakeCurrent: 0x7fd17b1f1150: ver 3 1 (tinfo 0x7fd39b00e080) (first time)
+
+I/Gralloc4( 7609): mapper 4.x is not supported
+
+W/Gralloc4( 7609): allocator 4.x is not supported
+
+D/HostConnection( 7609): HostComposition ext ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_YUV_Cache ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs GL_OES_EGL_image_external_essl3 GL_OES_vertex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_1 
+
+W/Parcel  ( 7609): Expecting binder but got null!
+
+D/TrafficStats( 7609): tagSocket(97) with statsTag=0xffffffff, statsUid=-1
+
+W/Parcel  ( 7609): Expecting binder but got null!
+
+W/OnBackInvokedCallback( 7609): OnBackInvokedCallback is not enabled for the application.
+
+W/OnBackInvokedCallback( 7609): Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+
+W/Parcel  ( 7609): Expecting binder but got null!
+
+D/TrafficStats( 7609): tagSocket(111) with statsTag=0xffffffff, statsUid=-1
+
+D/TrafficStats( 7609): tagSocket(114) with statsTag=0xffffffff, statsUid=-1
+
+D/TrafficStats( 7609): tagSocket(128) with statsTag=0xffffffff, statsUid=-1
+
+D/TrafficStats( 7609): tagSocket(110) with statsTag=0xffffffff, statsUid=-1
+
+D/EGL_emulation( 7609): app_time_stats: avg=4.48ms min=0.65ms max=32.50ms count=61
+
+I/FA      ( 7859): App measurement initialized, version: 75066
+
+I/FA      ( 7859): To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+
+I/FA      ( 7859): To enable faster debug mode event logging run:
+
+I/FA      ( 7859):   adb shell setprop debug.firebase.analytics.app com.google.android.apps.youtube.music
+
+I/FA-SVC  ( 6277): App measurement initialized, version: 225014
+
+D/EGL_emulation( 7609): app_time_stats: avg=1.84ms min=0.70ms max=8.57ms count=60
+
+D/EGL_emulation( 7609): app_time_stats: avg=13.91ms min=0.67ms max=67.07ms count=52
+
+W/net.rpcsx( 7609): Cleared Reference was only reachable from finalizer (only reported once)
+
+I/net.rpcsx( 7609): Background concurrent copying GC freed 170259(43MB) AllocSpace objects, 10(476KB) LOS objects, 49% free, 8375KB/16MB, paused 832us,12us total 253.873ms
+
+W/System  ( 7609): A resource failed to call close. 
+
+W/System  ( 7609): A resource failed to call close. 
+
+D/EGL_emulation( 7609): app_time_stats: avg=16.87ms min=7.25ms max=33.12ms count=59
+
+D/ProfileInstaller( 7609): Installing profile for net.rpcsx
+
+D/EGL_emulation( 7609): app_time_stats: avg=19.17ms min=5.77ms max=106.94ms count=53
+
+D/EGL_emulation( 7609): app_time_stats: avg=16.76ms min=9.17ms max=28.08ms count=60
+
+D/EGL_emulation( 7609): app_time_stats: avg=16.65ms min=12.16ms max=21.30ms count=60
+
+E/RPCSX-UI( 7609): registered update file /data/data/net.rpcsx/files/librpcsx-android_armv8-a_v20250426-281b65d.so
+
+I/net.rpcsx( 7609): System.exit called, status: 0
+
+I/AndroidRuntime( 7609): VM exiting with result code 0, cleanup skipped.
+
+W/net.rpcsx( 8418): Unexpected CPU variant for x86: x86_64.
+
+W/net.rpcsx( 8418): Known variants: atom, sandybridge, silvermont, kabylake, default
+
+I/ndk_translation( 8418): Initialized NDK translation (aarch64), version 0.2.3
+
+D/CompatibilityChangeReporter( 8418): Compat change id reported: 171979766; UID 10170; state: ENABLED
+
+D/nativeloader( 8418): Configuring classloader-namespace for other apk /data/app/~~f9hSeaJZ4y58S3mdiwXJtw==/net.rpcsx-7D8KrONzOdFJC0GaAvBUgg==/base.apk. target_sdk_version=35, uses_libraries=, library_path=/data/app/~~f9hSeaJZ4y58S3mdiwXJtw==/net.rpcsx-7D8KrONzOdFJC0GaAvBUgg==/lib/arm64:/data/app/~~f9hSeaJZ4y58S3mdiwXJtw==/net.rpcsx-7D8KrONzOdFJC0GaAvBUgg==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/net.rpcsx
+
+V/GraphicsEnvironment( 8418): ANGLE Developer option for 'net.rpcsx' set to: 'default'
+
+V/GraphicsEnvironment( 8418): ANGLE GameManagerService for net.rpcsx: false
+
+V/GraphicsEnvironment( 8418): Neither updatable production driver nor prerelease driver is supported.
+
+D/NetworkSecurityConfig( 8418): No Network Security Config specified, using platform default
+
+D/NetworkSecurityConfig( 8418): No Network Security Config specified, using platform default
+
+D/from MyApplication( 8418): im here
+
+D/CompatibilityChangeReporter( 8418): Compat change id reported: 147798919; UID 10170; state: ENABLED
+
+D/libEGL  ( 8418): loaded /vendor/lib64/egl/libEGL_emulation.so
+
+D/libEGL  ( 8418): loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+
+D/libEGL  ( 8418): loaded /vendor/lib64/egl/libGLESv2_emulation.so
+
+W/System.err( 8418): java.io.FileNotFoundException: /storage/emulated/0/Android/data/net.rpcsx/files/games.json: open failed: ENOENT (No such file or directory)
+
+W/System.err( 8418): 	at libcore.io.IoBridge.open(IoBridge.java:574)
+
+W/System.err( 8418): 	at java.io.FileInputStream.<init>(FileInputStream.java:160)
+
+W/System.err( 8418): 	at h3.j.M(Unknown Source:11)
+
+W/System.err( 8418): 	at net.rpcsx.a.l(Unknown Source:38)
+
+W/System.err( 8418): 	at c3.a.r(Unknown Source:7)
+
+W/System.err( 8418): 	at w3.H.run(Unknown Source:114)
+
+W/System.err( 8418): 	at B3.g.run(Unknown Source:58)
+
+W/System.err( 8418): 	at D3.j.run(Unknown Source:2)
+
+W/System.err( 8418): 	at D3.a.run(Unknown Source:93)
+
+W/System.err( 8418): Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+
+W/System.err( 8418): 	at libcore.io.Linux.open(Native Method)
+
+W/System.err( 8418): 	at libcore.io.ForwardingOs.open(ForwardingOs.java:563)
+
+W/System.err( 8418): 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:274)
+
+W/System.err( 8418): 	at libcore.io.ForwardingOs.open(ForwardingOs.java:563)
+
+W/System.err( 8418): 	at android.app.ActivityThread$AndroidOs.open(ActivityThread.java:7758)
+
+W/System.err( 8418): 	at libcore.io.IoBridge.open(IoBridge.java:560)
+
+W/System.err( 8418): 	... 8 more
+
+W/System.err( 8418): java.io.FileNotFoundException: /storage/emulated/0/Android/data/net.rpcsx/files/fw.json: open failed: ENOENT (No such file or directory)
+
+W/System.err( 8418): 	at libcore.io.IoBridge.open(IoBridge.java:574)
+
+W/System.err( 8418): 	at java.io.FileInputStream.<init>(FileInputStream.java:160)
+
+W/System.err( 8418): 	at h3.j.M(Unknown Source:11)
+
+W/System.err( 8418): 	at net.rpcsx.MainActivity.onCreate(Unknown Source:164)
+
+W/System.err( 8418): 	at android.app.Activity.performCreate(Activity.java:8305)
+
+W/System.err( 8418): 	at android.app.Activity.performCreate(Activity.java:8284)
+
+W/System.err( 8418): 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1417)
+
+W/System.err( 8418): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3626)
+
+W/System.err( 8418): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3782)
+
+W/System.err( 8418): 	at android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:101)
+
+W/System.err( 8418): 	at android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:135)
+
+W/System.err( 8418): 	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:95)
+
+W/System.err( 8418): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2307)
+
+W/System.err( 8418): 	at android.os.Handler.dispatchMessage(Handler.java:106)
+
+W/System.err( 8418): 	at android.os.Looper.loopOnce(Looper.java:201)
+
+W/System.err( 8418): 	at android.os.Looper.loop(Looper.java:288)
+
+W/System.err( 8418): 	at android.app.ActivityThread.main(ActivityThread.java:7872)
+
+W/System.err( 8418): 	at java.lang.reflect.Method.invoke(Native Method)
+
+W/System.err( 8418): 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
+
+W/System.err( 8418): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:936)
+
+W/System.err( 8418): Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+
+W/System.err( 8418): 	at libcore.io.Linux.open(Native Method)
+
+W/System.err( 8418): 	at libcore.io.ForwardingOs.open(ForwardingOs.java:563)
+
+W/System.err( 8418): 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:274)
+
+W/System.err( 8418): 	at libcore.io.ForwardingOs.open(ForwardingOs.java:563)
+
+W/System.err( 8418): 	at android.app.ActivityThread$AndroidOs.open(ActivityThread.java:7758)
+
+W/System.err( 8418): 	at libcore.io.IoBridge.open(IoBridge.java:560)
+
+W/System.err( 8418): 	... 19 more
+
+E/ndk_translation( 8418): Undefined instruction 0xd53be008 at 0x00007fd06ff760c8
+
+F/libc    ( 8418): Fatal signal 4 (SIGILL), code -6 (SI_TKILL) in tid 8418 (net.rpcsx), pid 8418 (net.rpcsx)
+
+I/ndk_translation( 8531): Initialized NDK translation (aarch64), version 0.2.3
+
+D/CompatibilityChangeReporter( 8531): Compat change id reported: 171979766; UID 10170; state: ENABLED
+
+D/nativeloader( 8531): Configuring classloader-namespace for other apk /data/app/~~f9hSeaJZ4y58S3mdiwXJtw==/net.rpcsx-7D8KrONzOdFJC0GaAvBUgg==/base.apk. target_sdk_version=35, uses_libraries=, library_path=/data/app/~~f9hSeaJZ4y58S3mdiwXJtw==/net.rpcsx-7D8KrONzOdFJC0GaAvBUgg==/lib/arm64:/data/app/~~f9hSeaJZ4y58S3mdiwXJtw==/net.rpcsx-7D8KrONzOdFJC0GaAvBUgg==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/net.rpcsx
+
+I/FA      ( 8233): App measurement initialized, version: 75066
+
+I/FA      ( 8233): To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+
+I/FA      ( 8233): To enable faster debug mode event logging run:
+
+I/FA      ( 8233):   adb shell setprop debug.firebase.analytics.app com.google.android.youtube
+
+V/GraphicsEnvironment( 8531): ANGLE Developer option for 'net.rpcsx' set to: 'default'
+
+V/GraphicsEnvironment( 8531): ANGLE GameManagerService for net.rpcsx: false
+
+V/GraphicsEnvironment( 8531): Neither updatable production driver nor prerelease driver is supported.
+
+D/NetworkSecurityConfig( 8531): No Network Security Config specified, using platform default
+
+D/NetworkSecurityConfig( 8531): No Network Security Config specified, using platform default
+
+D/from MyApplication( 8531): im here
+
+D/CompatibilityChangeReporter( 8531): Compat change id reported: 147798919; UID 10170; state: ENABLED
+
+D/libEGL  ( 8531): loaded /vendor/lib64/egl/libEGL_emulation.so
+
+D/libEGL  ( 8531): loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+
+D/libEGL  ( 8531): loaded /vendor/lib64/egl/libGLESv2_emulation.so
+
+W/System.err( 8531): java.io.FileNotFoundException: /storage/emulated/0/Android/data/net.rpcsx/files/fw.json: open failed: ENOENT (No such file or directory)
+
+W/System.err( 8531): 	at libcore.io.IoBridge.open(IoBridge.java:574)
+
+W/System.err( 8531): 	at java.io.FileInputStream.<init>(FileInputStream.java:160)
+
+W/System.err( 8531): 	at h3.j.M(Unknown Source:11)
+
+W/System.err( 8531): 	at net.rpcsx.MainActivity.onCreate(Unknown Source:164)
+
+W/System.err( 8531): 	at android.app.Activity.performCreate(Activity.java:8305)
+
+W/System.err( 8531): 	at android.app.Activity.performCreate(Activity.java:8284)
+
+W/System.err( 8531): 	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1417)
+
+W/System.err( 8531): 	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:3626)
+
+W/System.err( 8531): 	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:3782)
+
+W/System.err( 8531): 	at android.app.servertransaction.LaunchActivityItem.execute(LaunchActivityItem.java:101)
+
+W/System.err( 8531): 	at android.app.servertransaction.TransactionExecutor.executeCallbacks(TransactionExecutor.java:135)
+
+W/System.err( 8531): 	at android.app.servertransaction.TransactionExecutor.execute(TransactionExecutor.java:95)
+
+W/System.err( 8531): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:2307)
+
+W/System.err( 8531): 	at android.os.Handler.dispatchMessage(Handler.java:106)
+
+W/System.err( 8531): 	at android.os.Looper.loopOnce(Looper.java:201)
+
+W/System.err( 8531): 	at android.os.Looper.loop(Looper.java:288)
+
+W/System.err( 8531): 	at android.app.ActivityThread.main(ActivityThread.java:7872)
+
+W/System.err( 8531): 	at java.lang.reflect.Method.invoke(Native Method)
+
+W/System.err( 8531): 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:548)
+
+W/System.err( 8531): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:936)
+
+W/System.err( 8531): Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+
+W/System.err( 8531): 	at libcore.io.Linux.open(Native Method)
+
+W/System.err( 8531): 	at libcore.io.ForwardingOs.open(ForwardingOs.java:563)
+
+W/System.err( 8531): 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:274)
+
+W/System.err( 8531): 	at libcore.io.ForwardingOs.open(ForwardingOs.java:563)
+
+W/System.err( 8531): 	at android.app.ActivityThread$AndroidOs.open(ActivityThread.java:7758)
+
+W/System.err( 8531): 	at libcore.io.IoBridge.open(IoBridge.java:560)
+
+W/System.err( 8531): 	... 19 more
+
+W/System.err( 8531): java.io.FileNotFoundException: /storage/emulated/0/Android/data/net.rpcsx/files/games.json: open failed: ENOENT (No such file or directory)
+
+W/System.err( 8531): 	at libcore.io.IoBridge.open(IoBridge.java:574)
+
+W/System.err( 8531): 	at java.io.FileInputStream.<init>(FileInputStream.java:160)
+
+W/System.err( 8531): 	at h3.j.M(Unknown Source:11)
+
+W/System.err( 8531): 	at net.rpcsx.a.l(Unknown Source:38)
+
+W/System.err( 8531): 	at c3.a.r(Unknown Source:7)
+
+W/System.err( 8531): 	at w3.H.run(Unknown Source:114)
+
+W/System.err( 8531): 	at B3.g.run(Unknown Source:58)
+
+W/System.err( 8531): 	at D3.j.run(Unknown Source:2)
+
+W/System.err( 8531): 	at D3.a.run(Unknown Source:93)
+
+W/System.err( 8531): Caused by: android.system.ErrnoException: open failed: ENOENT (No such file or directory)
+
+W/System.err( 8531): 	at libcore.io.Linux.open(Native Method)
+
+W/System.err( 8531): 	at libcore.io.ForwardingOs.open(ForwardingOs.java:563)
+
+W/System.err( 8531): 	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:274)
+
+W/System.err( 8531): 	at libcore.io.ForwardingOs.open(ForwardingOs.java:563)
+
+W/System.err( 8531): 	at android.app.ActivityThread$AndroidOs.open(ActivityThread.java:7758)
+
+W/System.err( 8531): 	at libcore.io.IoBridge.open(IoBridge.java:560)
+
+W/System.err( 8531): 	... 8 more
+
+E/ndk_translation( 8531): Undefined instruction 0xd53be008 at 0x00007fd0730ce0c8
+
+F/libc    ( 8531): Fatal signal 4 (SIGILL), code -6 (SI_TKILL) in tid 8531 (net.rpcsx), pid 8531 (net.rpcsx)
