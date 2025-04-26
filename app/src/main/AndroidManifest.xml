@@ -16,6 +16,7 @@
     <uses-feature android:name="android.hardware.usb.accessory" />
 
     <application
+    android:name=".MyApplication"
         android:allowBackup="true"
         android:allowNativeHeapPointerTagging="false"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -37,6 +38,9 @@
         <meta-data 
             android:name="android.game_mode_config"
             android:resource="@xml/game_config" />
+            <activity
+            android:name=".CrashActivity"/>
+
         
         <activity
             android:name=".RPCSXActivity"
