@@ -2,6 +2,7 @@ package net.rpcsx;
 
 import android.app.Application;
 import android.content.Intent;
+import android.widget.Toast;
 
 import java.io.PrintWriter;
 import java.io.StringWriter;
@@ -10,6 +11,7 @@ public class MyApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
+        Toast.makeText(this, "Hello from Toast!", 1).show();
 
         Thread.setDefaultUncaughtExceptionHandler(
                 (thread, throwable) -> {
