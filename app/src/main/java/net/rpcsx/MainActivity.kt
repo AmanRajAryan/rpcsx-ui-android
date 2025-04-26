@@ -22,6 +22,7 @@ class MainActivity : ComponentActivity() {
     private lateinit var unregisterUsbEventListener: () -> Unit
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        throw RuntimeException("hi")
 
         GeneralSettings.init(this)
 
