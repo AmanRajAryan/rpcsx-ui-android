@@ -3,6 +3,7 @@ package net.rpcsx;
 import android.app.Application;
 import android.content.Intent;
 import android.widget.Toast;
+import android.util.Log;
 
 import java.io.PrintWriter;
 import java.io.StringWriter;
@@ -11,6 +12,7 @@ public class MyApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
+        Log.d("from MyApplication" , "im here");
         Toast.makeText(this, "Hello from Toast!", 1).show();
 
         Thread.setDefaultUncaughtExceptionHandler(
